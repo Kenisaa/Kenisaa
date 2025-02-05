@@ -16,7 +16,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   - Swift
   - JavaScript
 - 👥 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- ✔ Ask me about anything, I am happy to help!😉<br>
 - 🎮 I love to play videogames, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="kcallejas24@hotmail.com">kcallejas24@hotmail.com</a>
 
