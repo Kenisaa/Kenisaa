@@ -15,6 +15,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 - 🌱 I’m currently learning ...
   - Swift
   - JavaScript
+  - Python
 - 👥 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
 - 🎮 I love to play videogames, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
@@ -28,6 +29,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
 <h4> Databases </h4>
@@ -51,6 +53,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 </span>
 
